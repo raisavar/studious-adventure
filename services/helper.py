@@ -1,5 +1,6 @@
 """
 Studious Adventure - Bug Fix
+Studious Adventure
 """
 
 def safe_divide(a, b):
